@@ -5,7 +5,8 @@ import static org.junit.Assert.assertEquals;
 
 /**
  * Test class for GradeConverter.
- * This class contains unit tests to verify the functionality of the GradeConverter class.
+ * This class contains unit tests to verify the functionality of the
+ * GradeConverter class.
  */
 public class GradeConverterTest {
 

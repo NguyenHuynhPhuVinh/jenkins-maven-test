@@ -1,7 +1,8 @@
 
 /**
  * Converter class for converting numeric scores to letter grades.
- * This class provides functionality to convert integer scores to corresponding letter grades.
+ * This class provides functionality to convert integer scores to
+ * corresponding letter grades.
  */
 public final class GradeConverter {
 
@@ -30,7 +31,8 @@ public final class GradeConverter {
      * Converts a numeric score to a letter grade.
      *
      * @param score the numeric score to convert (should be between 0-100)
-     * @return the corresponding letter grade (A, B, C, D, E) or "Invalid" for out-of-range scores
+     * @return the corresponding letter grade (A, B, C, D, E) or "Invalid"
+     *         for out-of-range scores
      */
     public String convert(final int score) {
         if (score <= GRADE_A_MAX && score >= GRADE_A_MIN) {

@@ -2,7 +2,8 @@ package org.example;
 
 /**
  * Main class for the application.
- * This is a utility class that serves as the entry point for the application.
+ * This is a utility class that serves as the entry point for the
+ * application.
  */
 public final class Main {
 
